@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 You can reach me through my Gmail: jz2077056966@gmail.com
 - ⚡ I’m getting ready to learn the C programming language.
+- 👋 If you have any interesting projects related to Minecraft modules or distributed file systems, feel free to invite me to collaborate!
