@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KuroNeko359
-- 👀 I’m interested in coding and play classcial guitar.
+- 👀 I’m interested in coding and playing classcial guitar.
 - 🌱 I’m currently learning advanced mathmatics.
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 You can reach me through my Gmail: jz2077056966@gmail.com
